@@ -1,0 +1,5 @@
+name: CTC
+version: 0.0.1
+description: CTC
+depend: [Craftconomy3]
+main: fun.ksmc.RRCC.CTC
